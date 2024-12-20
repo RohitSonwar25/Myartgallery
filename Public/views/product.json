@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Anime",
+        "price": 300,
+        "image": "/Public/images/Anime.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Krishna",
+        "price": 500,
+        "image": "/Public/images/Krishna.jpg"
+    },
+    {
+        "id": 3,
+        "name": "IRONMAN",
+        "price": 400,
+        "image": "/Public/images/ironman.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Black Widow",
+        "price": 300,
+        "image": "/Public/images/black widow.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Professor",
+        "price": 400,
+        "image": "/Public/images/professor.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vijay",
+        "price": 300,
+        "image": "/Public/images/Thalapathy.png"
+    }
+]
